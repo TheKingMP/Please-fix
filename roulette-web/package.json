@@ -1,0 +1,14 @@
+{
+  "name": "casino-games",
+  "version": "1.0.0",
+  "description": "Casino games web application",
+  "main": "server/app.py",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  },
+  "scripts": {
+    "start": "python server/app.py"
+  },
+  "author": "",
+  "license": "ISC"
+}
